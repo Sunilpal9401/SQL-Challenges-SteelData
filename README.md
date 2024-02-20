@@ -1,7 +1,3 @@
-# SQL-Challenges-SteelData
-The repository contains all the solution to challenges from https://www.steeldata.org.uk/sql.html of SQL.
-
-
 # SQL Challenges by Matthew Steel Solutions
 
 Welcome to the SQL Challenges Solutions repository! Here, you'll find my solutions to a series of engaging SQL challenges designed by the renowned data enthusiast, Matthew Steel. These challenges have been curated from the wealth of knowledge available at Steeldata.org, offering a fantastic opportunity to hone my SQL skills and explore intricate database scenarios.
